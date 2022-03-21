@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ... Student
-- 🌱 I’m currently learning ... Node.js
+- 🌱 I’m currently learning ... Spring Boot
 - 📫 How to reach me: ... contact me at debanaskar13@gmail.com
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
